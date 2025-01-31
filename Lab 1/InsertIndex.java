@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class InsertIndex {
     public static void main(String[] args) {
         int[] testArray = new int[]{1, 2, 5, 9, 11, 15};
         int test1 = findInsertIndex(testArray, 7);
