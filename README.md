@@ -11,3 +11,6 @@ _Lab 2: Kadane's Algorithm_
 
 This lab contains an algorithm that will find the maximum sum 
 of a contiguous sub-array within a given array.
+
+**LeetCode Problems:**
+- Two Sum Solution O(n^2)
